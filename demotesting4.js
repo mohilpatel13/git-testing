@@ -4,3 +4,18 @@ function demoFunction() {
     return "Demo function executed";
 }
 print(demoFunction());
+function demoFunction() {
+    return "Demo function executed";
+}   
+function demoFunction() {
+    return "Demo function executed";
+}
+
+
+
+
+function demoFunction() {
+    return "Demo function executed";
+}function demoFunction() {
+    return "Demo function executed";
+}
